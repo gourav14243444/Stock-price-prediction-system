@@ -1,12 +1,5 @@
 # GME-stock-predictions
 
-@author: Cody Smith | codysmith.contact@gmail.com
-
-https://github.com/codysmith-tech
-
-https://www.linkedin.com/in/codysmithprofile/
-
-------------------------
 ***OVERVIEW***
 
 A Python project using SQL and Machine Learning to predict future close prices of the infamous GameStop stock.
