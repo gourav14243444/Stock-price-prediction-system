@@ -1,10 +1,4 @@
-"""
 
-@author: Cody Smith | codysmith.contact@gmail.com
-https://github.com/codysmith-tech
-https://www.linkedin.com/in/codysmithprofile/
-
-"""
 
 import numpy as np
 from sklearn import preprocessing
